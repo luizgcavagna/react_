@@ -1,0 +1,14 @@
+.container {
+  background-color: #202024;
+  border: 2px solid #00b37e;
+  padding: .7rem 1rem;
+  border-radius: .5rem;
+  cursor: pointer;
+
+  & span {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 1rem;
+  }
+}
+
